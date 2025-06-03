@@ -1,0 +1,62 @@
+[
+    {
+        "email": "jane.smith@hospital.com",
+        "password": "1234@"
+    },
+    {
+        "email": "john.doe@hospital.com",
+        "password": "1234@"
+    },
+    {
+        "email": "mary.johnson@hospital.com",
+        "password": "1234@"
+    },
+    {
+        "email": "robert.kimani@hospital.com",
+        "password": "1234@"
+    },
+    {
+        "email": "sarah.williams@hospital.com",
+        "password": "1234@"
+    },
+    {
+        "email": "david.omondi@hospital.com",
+        "password": "1234@"
+    },
+    {
+        "email": "grace.mwangi@hospital.com",
+        "password": "1234@"
+    },
+    {
+        "email": "peter.kamau@hospital.com",
+        "password": "1234@"
+    },
+    {
+        "email": "lucy.wambui@hospital.com",
+        "password": "1234@"
+    },
+    {
+        "email": "james.mutua@hospital.com",
+        "password": "1234@"
+    },
+    {
+        "email": "eunice.atieno@hospital.com",
+        "password": "1234@"
+    },
+    {
+        "email": "susan.mwende@hospital.com",
+        "password": "1234@"
+    },
+    {
+        "email": "michael.otieno@hospital.com",
+        "password": "1234@"
+    },
+    {
+        "email": "patricia.auma@hospital.com",
+        "password": "1234@"
+    },
+    {
+        "email": "brian.kipchoge@hospital.com",
+        "password": "1234@"
+    }
+]
